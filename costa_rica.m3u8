@@ -11,3 +11,6 @@ https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-id="TEST04" tvg-name="Canal de Prueba 4" group-title="Pruebas",Canal de Prueba 4
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="REPRETEL6" tvg-name="Repretel Canal 6" group-title="Costa Rica",Repretel Canal 6
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
