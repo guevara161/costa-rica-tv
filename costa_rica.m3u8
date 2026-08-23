@@ -1,13 +1,14 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Canal de Prueba 1" tvg-logo="https://..." group-title="Nacionales",Canal de Prueba 1
-https://...
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-name="Canal de Prueba 2" tvg-logo="https://..." group-title="Noticias",Canal de Prueba 2
-https://...
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-name="Canal de Prueba 3" tvg-logo="https://..." group-title="Deportes",Canal de Prueba 3
-https://...
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-name="Canal de Prueba 4" tvg-logo="https://..." group-title="Entretenimiento",Canal de Prueba 4
-https://...
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
