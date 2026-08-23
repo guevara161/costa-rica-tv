@@ -1,4 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TEST01" tvg-name="Canal de Prueba" group-title="Pruebas",Canal de Prueba
+#EXTINF:-1 tvg-id="TEST01" tvg-name="Canal de Prueba 1" group-title="Pruebas",Canal de Prueba 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TEST02" tvg-name="Canal de Prueba 2" group-title="Pruebas",Canal de Prueba 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TEST03" tvg-name="Canal de Prueba 3" group-title="Pruebas",Canal de Prueba 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TEST04" tvg-name="Canal de Prueba 4" group-title="Pruebas",Canal de Prueba 4
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
